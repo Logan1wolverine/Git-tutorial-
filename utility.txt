@@ -1,2 +1,3 @@
-version 3 
+version 6
+
 the topic of economics, utility is used to model worth or value. Its usage has evolved significantly over time. The term was introduced initially as a measure of pleasure or happiness as part of the theory of utilitarianism by moral philosophers such as Jeremy Bentham and John Stuart Mill. The term has been adapted and reapplied within neoclassical economics,
